@@ -1,6 +1,7 @@
 ## Olá eu sou a Heloísa Ribeiro!
 
 - 🌱 Estou iniciando na área
+- Cursando bacharelado em ciência da computação
 - 🙋🏻‍♀️ Ela/dela
 
 <div>
