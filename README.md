@@ -14,3 +14,5 @@
 <div>
  <a https://github-readme-stats.vercel.app/api?username=hribes&theme=dark&hide_border=false&include_all_commits=true&count_private=true></a>
 </div>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RhuanToneto&langs_count=8&theme=highcontrast&hide=ejs,html,css)
