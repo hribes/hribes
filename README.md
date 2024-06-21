@@ -15,4 +15,7 @@
  <a https://github-readme-stats.vercel.app/api?username=hribes&theme=dark&hide_border=false&include_all_commits=true&count_private=true></a>
 </div>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/username=hribes&langs_count=8&theme=highcontrast&hide=ejs,html,css)
+<img
+    height="150"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hribes&layout=compact&hide_border=true&theme=darcula&langs_count=6&hide=jupyter%20notebook,tex,css,php"
+  />
