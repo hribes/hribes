@@ -2,6 +2,7 @@
 
 - 🌱 Estou iniciando na área
 - Cursando bacharelado em ciência da computação
+- Foco em Machine Learning
 - 🙋🏻‍♀️ Ela/dela
 
 <div>
