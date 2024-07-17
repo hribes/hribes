@@ -10,6 +10,11 @@
   <a href = "mailto:hribes.silva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/heloisaribesilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </div>
+
+##
+<div style="display: inline">
+  <img width="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+<div/>
     
 ##
 <div>
