@@ -34,6 +34,11 @@
         <a href="https://numpy.org/" target="_blank">
                 <img src="https://media.licdn.com/dms/image/D5612AQFSTglfKdI9eg/article-cover_image-shrink_720_1280/0/1708971797430?e=2147483647&v=beta&t=XbyPHd8bw5PLrsaTaad1Sish6jhLezkkp1u52KEpExg" alt="numpy" width="40" height="40" />
         </a>
+        <a href="https://seaborn.pydata.org/" target="_blank">
+                <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="numpy" width="40" height="40" />
+        </a>
+
+
 
 
 </p>
