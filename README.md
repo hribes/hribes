@@ -12,43 +12,50 @@
 </div>
 
 ##
-<p align="left"> 
+<p align="center"> 
         <a href="https://www.python.org" target="_blank"> 
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
+                <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" />
         </a>
         <a href="https://matplotlib.org/" target="_blank">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/> 
+                <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="50" height="50"/> 
         </a>
         <a href="https://scikit-learn.org/" target="_blank">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
+                <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="50" height="50"/>
         </a> 
         <a href="https://www.tensorflow.org/" target="_blank">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tensorflow" width="40" height="40" />
+                <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tensorflow" width="50" height="50" />
         </a> 
         <a href="https://opencv.org/" target="_blank"> 
-                <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="opencv" width="40" height="40" /> 
+                <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="opencv" width="50" height="50" /> 
         </a>
         <a href="https://pandas.pydata.org/" target="_blank">
-                <img src="https://pandas.pydata.org/static/img/favicon_white.ico" alt="pandas" width="40" height="40" /> 
+                <img align="center" src="https://pandas.pydata.org/static/img/favicon_white.ico" alt="pandas" width="50" height="50" /> 
         </a>
         <a href="https://numpy.org/" target="_blank">
-                <img src="https://media.licdn.com/dms/image/D5612AQFSTglfKdI9eg/article-cover_image-shrink_720_1280/0/1708971797430?e=2147483647&v=beta&t=XbyPHd8bw5PLrsaTaad1Sish6jhLezkkp1u52KEpExg" alt="numpy" width="40" height="40" />
+                <img align="center" src="https://media.licdn.com/dms/image/D5612AQFSTglfKdI9eg/article-cover_image-shrink_720_1280/0/1708971797430?e=2147483647&v=beta&t=XbyPHd8bw5PLrsaTaad1Sish6jhLezkkp1u52KEpExg" alt="numpy" width="50" height="50" />
         </a>
         <a href="https://seaborn.pydata.org/" target="_blank">
-                <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="numpy" width="40" height="40" />
+                <img align="center" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="numpy" width="50" height="50" />
         </a>
 
 
 
 
 </p>
-    
+
+
 ##
 <div>
  <a https://github-readme-stats.vercel.app/api?username=hribes&theme=dark&hide_border=false&include_all_commits=true&count_private=true></a>
 </div>
 
-<img
+<div align="center">
+<img 
     height="150"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=hribes&layout=compact&hide_border=true&theme=darcula&langs_count=6&hide=jupyter%20notebook,tex,css,php"
   />
+</div>
+
+&nbsp;<div align="center">
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/intl-pt/album/4umFE3UJjwqt7N57m6VyTf?si=zu4h9zDuTT2jmAUsQwHMkQ)
+</div>
