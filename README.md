@@ -12,9 +12,31 @@
 </div>
 
 ##
-<div style="display: inline">
-  <img width="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-<div/>
+<p align="left"> 
+        <a href="https://www.python.org" target="_blank"> 
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
+        </a>
+        <a href="https://matplotlib.org/" target="_blank">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/> 
+        </a>
+        <a href="https://scikit-learn.org/" target="_blank">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
+        </a> 
+        <a href="https://www.tensorflow.org/" target="_blank">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tensorflow" width="40" height="40" />
+        </a> 
+        <a href="https://opencv.org/" target="_blank"> 
+                <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="opencv" width="40" height="40" /> 
+        </a>
+        <a href="https://pandas.pydata.org/" target="_blank">
+                <img src="https://pandas.pydata.org/static/img/favicon_white.ico" alt="pandas" width="40" height="40" /> 
+        </a>
+        <a href="https://numpy.org/" target="_blank">
+                <img src="https://media.licdn.com/dms/image/D5612AQFSTglfKdI9eg/article-cover_image-shrink_720_1280/0/1708971797430?e=2147483647&v=beta&t=XbyPHd8bw5PLrsaTaad1Sish6jhLezkkp1u52KEpExg" alt="numpy" width="40" height="40" />
+        </a>
+
+
+</p>
     
 ##
 <div>
