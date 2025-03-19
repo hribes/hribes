@@ -55,7 +55,3 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=hribes&layout=compact&hide_border=true&theme=darcula&langs_count=6&hide=jupyter%20notebook,tex,css,php"
   />
 </div>
-
-&nbsp;<div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/intl-pt/album/4umFE3UJjwqt7N57m6VyTf?si=zu4h9zDuTT2jmAUsQwHMkQ)
-</div>
