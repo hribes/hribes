@@ -3,6 +3,7 @@
 - 🌱 Eu sou Heloísa Ribeiro, brasileira, tenho 19 anos e estou cursando bacharelado em Ciência da Computação.
 - Tenho um grande interesse em Machine Learning, Ciência de Dados e Estatística. Com o tempo, pretendo acrescentar aqui projetos pessoais e estudos relacionados à área.
 - Minhas competências incluem Python (pandas, numpy, matplotlib, seaborn, scikit-learn), SQL, Machine Learning (classificação) e Estatística (descritiva e inferencial). Minhas soft skills incluem aprendizagem autônoma, comunicação, trabalho em equipe e rápida adaptação.
+- Estudos atuais: PySpark, Clustering.
 - 🙋🏻‍♀️ Ela/dela
 
 <div>
